@@ -1,6 +1,6 @@
 
 # pull base image
-FROM resin/rpi-raspbian:jessie-20160831
+FROM resin/rpi-raspbian:jessie-20161102
 MAINTAINER Patavee Charnvivit <patavee@gmail.com>
 
 # install dependencies
